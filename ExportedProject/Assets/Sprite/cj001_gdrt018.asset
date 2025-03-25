@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: cj001_gdrt018
+  m_Rect:
+    serializedVersion: 2
+    x: 0
+    y: 14.026751
+    width: 103.92388
+    height: 59.897133
+  m_Offset: {x: -21.961939, y: 1.0246823}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1
+  m_Extrude: 1
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: e0d8777d11368fc458b0b7fe70df26f8, type: 3}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 69, y: 29, z: 0}
+    - serializedVersion: 2
+      pos: {x: 74, y: -31, z: 0}
+    - serializedVersion: 2
+      pos: {x: 74, y: 25, z: 0}
+    - serializedVersion: 2
+      pos: {x: -26, y: -31, z: 0}
+    - serializedVersion: 2
+      pos: {x: -30, y: 29, z: 0}
+    - serializedVersion: 2
+      pos: {x: -30, y: -30, z: 0}
+    indices: 050004000300000003000400010003000000020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 14.026751
+      width: 103.92388
+      height: 59.897133
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 192
+    uvTransform: {x: 1, y: 30, z: 1, w: 45}

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: chr_srh_gj011
+  m_Rect:
+    serializedVersion: 2
+    x: 60.026752
+    y: 36.076122
+    width: 107.897125
+    height: 139.84775
+  m_Offset: {x: -13.975315, y: -36.999992}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1
+  m_Extrude: 1
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 5ed65ac80e1c0a9449c0cd493d5fea07, type: 3}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 67, y: 107, z: 0}
+    - serializedVersion: 2
+      pos: {x: 68, y: -28, z: 0}
+    - serializedVersion: 2
+      pos: {x: 68, y: 106, z: 0}
+    - serializedVersion: 2
+      pos: {x: 67, y: -33, z: 0}
+    - serializedVersion: 2
+      pos: {x: -7, y: 107, z: 0}
+    - serializedVersion: 2
+      pos: {x: -40, y: 64, z: 0}
+    - serializedVersion: 2
+      pos: {x: -40, y: -33, z: 0}
+    indices: 060005000300040003000500000003000400010003000000020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 60.026752
+      y: 36.076122
+      width: 107.897125
+      height: 139.84775
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 192
+    uvTransform: {x: 1, y: 100, z: 1, w: 69}

@@ -1,0 +1,12 @@
+INT	STRING	STRING
+id	name	icon
+3	t_view_map_name_3	main_icon_04
+2	t_view_map_name_2	main_icon_02
+1	t_view_map_name_1	main_icon_01
+4	t_view_map_name_4	icon_cjwj
+5	t_view_map_name_5	icon_zjwj
+6	t_view_map_name_6	icon_gjwj
+7	t_view_map_name_7	icon_dswj
+100	t_view_map_name_100	main_icon_05
+101	t_view_map_name_101	main_icon_06
+102	t_view_map_name_102	main_icon_07

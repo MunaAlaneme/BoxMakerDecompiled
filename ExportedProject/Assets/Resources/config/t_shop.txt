@@ -1,0 +1,12 @@
+INT	INT	STRING	INT	INT	FLOAT	STRING	STRING	INT	STRING	STRING
+id	栏目	name	type	price	美元	icon	db	def	CODE	描述
+1001	0	t_shop_name_1001	1	6	0.99	fk_zuans001	shop_sub001	60	p_60	t_shop_desc_1001
+1002	0	t_shop_name_1002	1	30	4.99	fk_zuans002	shop_sub001	300	p_300	t_shop_desc_1002
+1003	0	t_shop_name_1003	1	98	14.99	fk_zuans003	shop_sub001	980	p_980	t_shop_desc_1003
+1004	0	t_shop_name_1004	1	198	29.99	fk_zuans004	shop_sub001	1980	p_1980	t_shop_desc_1004
+1005	0	t_shop_name_1005	1	328	49.99	fk_zuans005	shop_sub001	3280	p_3280	t_shop_desc_1005
+1006	0	t_shop_name_1006	1	648	99.99	fk_zuans006	shop_sub001	6480	p_6480	t_shop_desc_1006
+2001	1	t_shop_name_2001	2	20		sm_db001	shop_sub002	10		
+2002	1	t_shop_name_2002	2	90		sm_db002	shop_sub002	50		
+2003	1	t_shop_name_2003	2	320		sm_db003	shop_sub002	200		
+2004	1	t_shop_name_2004	2	700		sm_db004	shop_sub002	500		

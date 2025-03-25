@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: cj001_jinbi004
+  m_Rect:
+    serializedVersion: 2
+    x: 10.07612
+    y: 2.0761204
+    width: 43.847755
+    height: 59.847755
+  m_Offset: {x: 2.61353E-06, y: 3.5672042E-06}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1
+  m_Extrude: 1
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 93d80afe142e15a45a118da6aac10dba, type: 3}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 21, y: 24, z: 0}
+    - serializedVersion: 2
+      pos: {x: 22, y: -25, z: 0}
+    - serializedVersion: 2
+      pos: {x: 22, y: 20, z: 0}
+    - serializedVersion: 2
+      pos: {x: 16, y: 30, z: 0}
+    - serializedVersion: 2
+      pos: {x: 16, y: -30, z: 0}
+    - serializedVersion: 2
+      pos: {x: -12, y: 30, z: 0}
+    - serializedVersion: 2
+      pos: {x: -21, y: -30, z: 0}
+    - serializedVersion: 2
+      pos: {x: -22, y: 23, z: 0}
+    - serializedVersion: 2
+      pos: {x: -22, y: -27, z: 0}
+    indices: 080007000600050006000700040006000500030004000500010004000300000001000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 10.07612
+      y: 2.0761204
+      width: 43.847755
+      height: 59.847755
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 192
+    uvTransform: {x: 1, y: 32, z: 1, w: 32}

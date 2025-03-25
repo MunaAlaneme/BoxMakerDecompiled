@@ -1,0 +1,9 @@
+INT	STRING
+id	res
+0	tx_00
+1	tx_01
+2	tx_02
+3	tx_03
+4	tx_04
+5	tx_05
+6	tx_06

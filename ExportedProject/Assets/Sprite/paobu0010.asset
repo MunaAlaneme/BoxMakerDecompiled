@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: paobu0010
+  m_Rect:
+    serializedVersion: 2
+    x: 11.012913
+    y: 22.02675
+    width: 78.96034
+    height: 66.89713
+  m_Offset: {x: -0.4930828, y: -5.4753165}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1
+  m_Extrude: 1
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 8b7898bb3737e1f4db771d51672bb917, type: 3}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 27, y: 39, z: 0}
+    - serializedVersion: 2
+      pos: {x: 40, y: 4, z: 0}
+    - serializedVersion: 2
+      pos: {x: 40, y: 28, z: 0}
+    - serializedVersion: 2
+      pos: {x: 19, y: -28, z: 0}
+    - serializedVersion: 2
+      pos: {x: -12, y: 39, z: 0}
+    - serializedVersion: 2
+      pos: {x: -15, y: -28, z: 0}
+    - serializedVersion: 2
+      pos: {x: -39, y: 7, z: 0}
+    - serializedVersion: 2
+      pos: {x: -39, y: -3, z: 0}
+    indices: 070006000500040005000600030005000400000003000400010003000000020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 11.012913
+      y: 22.02675
+      width: 78.96034
+      height: 66.89713
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 192
+    uvTransform: {x: 1, y: 50, z: 1, w: 50}

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: chr_tbg_yd022
+  m_Rect:
+    serializedVersion: 2
+    x: 15.07612
+    y: 15.07612
+    width: 69.86751
+    height: 61.872566
+  m_Offset: {x: -0.009871776, y: 3.9875998}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1
+  m_Extrude: 1
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: c4112dda9c5be074d935629cb8cf40b3, type: 3}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 35, y: 3, z: 0}
+    - serializedVersion: 2
+      pos: {x: 34, y: -30, z: 0}
+    - serializedVersion: 2
+      pos: {x: 35, y: -27, z: 0}
+    - serializedVersion: 2
+      pos: {x: 18, y: 27, z: 0}
+    - serializedVersion: 2
+      pos: {x: 17, y: -35, z: 0}
+    - serializedVersion: 2
+      pos: {x: -15, y: 27, z: 0}
+    - serializedVersion: 2
+      pos: {x: -23, y: -35, z: 0}
+    - serializedVersion: 2
+      pos: {x: -35, y: 19, z: 0}
+    - serializedVersion: 2
+      pos: {x: -35, y: -23, z: 0}
+    indices: 080007000600050006000700040006000500030004000500010004000300000001000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 15.07612
+      y: 15.07612
+      width: 69.86751
+      height: 61.872566
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 192
+    uvTransform: {x: 1, y: 50, z: 1, w: 50}

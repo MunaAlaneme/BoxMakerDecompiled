@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: boom03
+  m_Rect:
+    serializedVersion: 2
+    x: 0.09148705
+    y: 0.076120496
+    width: 39.88176
+    height: 39.847755
+  m_Offset: {x: -0.032367114, y: 2.3751113E-06}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1
+  m_Extrude: 1
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 66255a6f8ab532842b7508bb1b4554a9, type: 3}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 3, y: -12, z: 0}
+    - serializedVersion: 2
+      pos: {x: 6, y: -20, z: 0}
+    - serializedVersion: 2
+      pos: {x: 6, y: -16, z: 0}
+    - serializedVersion: 2
+      pos: {x: -9, y: 20, z: 0}
+    - serializedVersion: 2
+      pos: {x: -20, y: 12, z: 0}
+    - serializedVersion: 2
+      pos: {x: -20, y: -20, z: 0}
+    - serializedVersion: 2
+      pos: {x: 3, y: 14, z: 0}
+    - serializedVersion: 2
+      pos: {x: 6, y: 15, z: 0}
+    - serializedVersion: 2
+      pos: {x: 3, y: 20, z: 0}
+    - serializedVersion: 2
+      pos: {x: 6, y: 17, z: 0}
+    - serializedVersion: 2
+      pos: {x: 19, y: 15, z: 0}
+    - serializedVersion: 2
+      pos: {x: 20, y: 9, z: 0}
+    - serializedVersion: 2
+      pos: {x: 20, y: 13, z: 0}
+    - serializedVersion: 2
+      pos: {x: 16, y: -18, z: 0}
+    - serializedVersion: 2
+      pos: {x: 14, y: -19, z: 0}
+    - serializedVersion: 2
+      pos: {x: 8, y: 15, z: 0}
+    - serializedVersion: 2
+      pos: {x: 8, y: -19, z: 0}
+    indices: 0200070010000f00100007000e0010000f000a000e000f000d000e000a000b000d000a000c000b000a00030008000000060000000800070006000800090007000800000006000200070002000600050004000100030001000400000001000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 0.09148705
+      y: 0.076120496
+      width: 39.88176
+      height: 39.847755
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 192
+    uvTransform: {x: 1, y: 20, z: 1, w: 20}

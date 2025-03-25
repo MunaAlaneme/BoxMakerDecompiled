@@ -1,0 +1,6 @@
+INT	STRING	STRING	INT	STRING	FLOAT	STRING
+难度	name	代号	关数	DESC	经验	unlock
+1	简单	t_br_name_1	8	t_br_desc_1	1	t_br_unlock_1
+2	普通	t_br_name_2	8	t_br_desc_2	1.3	t_br_unlock_2
+3	困难	t_br_name_3	16	t_br_desc_3	1.6	t_br_unlock_3
+4	地狱	t_br_name_4	16	t_br_desc_4	2	t_br_unlock_4

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: siwang20013
+  m_Rect:
+    serializedVersion: 2
+    x: 15.001932
+    y: 18.07612
+    width: 69.961784
+    height: 66.8324
+  m_Offset: {x: 0.017176425, y: -1.4923187}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1
+  m_Extrude: 1
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: a874269bcee9b954a8b4d19cd2aef736, type: 3}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 9, y: 35, z: 0}
+    - serializedVersion: 2
+      pos: {x: 35, y: -32, z: 0}
+    - serializedVersion: 2
+      pos: {x: 35, y: 13, z: 0}
+    - serializedVersion: 2
+      pos: {x: -24, y: 35, z: 0}
+    - serializedVersion: 2
+      pos: {x: -29, y: -32, z: 0}
+    - serializedVersion: 2
+      pos: {x: -35, y: 23, z: 0}
+    - serializedVersion: 2
+      pos: {x: -35, y: -9, z: 0}
+    indices: 060005000400030004000500010004000300000001000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 15.001932
+      y: 18.07612
+      width: 69.961784
+      height: 66.8324
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 192
+    uvTransform: {x: 1, y: 50, z: 1, w: 50}

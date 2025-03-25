@@ -1,0 +1,285 @@
+STRING	STRING	STRING
+字段	中文	英文
+t_error_2	系统错误	System error
+t_error_3	解析消息错误	Message parse error
+t_error_4	登录失效，请重新登录	Invalid login, please relogin
+t_error_5	参数错误	Argv error
+t_error_6	用户不存在	Not exist user
+t_error_7	账户已存在	Account available
+t_error_8	账户不存在	Account not available
+t_error_9	地图不存在	Not exist map
+t_error_10	密码不正确	Invalid password
+t_error_11	账户已存在	Account available
+t_error_12	您已经登录该账号	Duplicate login
+t_error_13	支付失败	Payment failed
+t_error_14	此用户为管理者	System user
+t_error_20	已经创建地图	Map had created
+t_error_21	体力不足	Not enough energies
+t_error_22	游客不能上传地图	Guests can't upload map
+t_error_23	输入不合法	Incorrect input
+t_error_24	无法编辑已上传地图	Not allowed to edit uploaded map
+t_error_25	钻石不足	Not enough diamonds
+t_error_26	今天上传数量达到上限	Uploaded count limit today
+t_error_27	已完成新手引导	Guide completed
+t_error_28	礼包码无效	Invalid gift Code
+t_error_29	编辑栏已满	Edit slot is full
+t_fg_name_1	山野草原	Mountain grassland
+t_fg_name_2	幽冥洞穴	Cave of darkness
+t_fg_name_3	沙漠荒野	Wild desert
+t_fg_name_4	熔岩地带	Lava field
+t_fg_desc_1		
+t_fg_desc_2	工匠等级2级解锁	Unlock at Editor Level 2
+t_fg_desc_3	工匠等级3级解锁	Unlock at Editor Level 3
+t_fg_desc_4	工匠等级4级解锁	Unlock at Editor Level 4
+t_shop_name_1001	[96FFFF]60钻石	[96FFFF]60 Diamonds
+t_shop_name_1002	[96FFFF]300钻石	[96FFFF]300 Diamonds
+t_shop_name_1003	[96FFFF]980钻石	[96FFFF]980 Diamonds
+t_shop_name_1004	[96FFFF]1980钻石	[96FFFF]1980 Diamonds
+t_shop_name_1005	[96FFFF]3280钻石	[96FFFF]3280 Diamonds
+t_shop_name_1006	[96FFFF]6480钻石	[96FFFF]6480 Diamonds
+t_shop_name_2001	[BCFFBC]10体力	[BCFFBC]10 Energies
+t_shop_name_2002	[BCFFBC]50体力	[BCFFBC]50 Energies
+t_shop_name_2003	[BCFFBC]200体力	[BCFFBC]200 Energies
+t_shop_name_2004	[BCFFBC]500体力	[BCFFBC]500 Energies
+t_shop_desc_1001	60钻石	60 Diamonds
+t_shop_desc_1002	300钻石	300 Diamonds
+t_shop_desc_1003	980钻石	980 Diamonds
+t_shop_desc_1004	1980钻石	1980 Diamonds
+t_shop_desc_1005	3280钻石	3280 Diamonds
+t_shop_desc_1006	6480钻石	6480 Diamonds
+t_view_map_name_1	最受欢迎	Most Popular
+t_view_map_name_2	最新上传	Latest Uploaded
+t_view_map_name_3	近期热门	Recent Hot
+t_view_map_name_4	L1难度	L1 Maps
+t_view_map_name_5	L2难度	L2 Maps
+t_view_map_name_6	L3难度	L3 Maps
+t_view_map_name_7	L4难度	L4 Maps
+t_view_map_name_100	我的收藏	My Favorite 
+t_view_map_name_101	我上传的	Self-Uploaded
+t_view_map_name_102	最近玩过	Recent Played
+t_view_title_name_1	选关模式	Select Mode
+t_view_title_name_2	挑战模式	Challenge Mode
+t_view_title_name_200	L1考试	L1 Testing
+t_view_title_name_201	L2考试	L2 Testing
+t_view_title_name_202	L3考试	L3 Testing
+t_view_title_name_203	L4考试	L4 Testing
+t_download_desc	是否下载本地图？	
+game_load_gui_jzzy	正在加载资源	Loading resouces
+game_load_gui_bbxx	正在读取版本信息...{0}	Loading version.json...{0}
+game_load_gui_gxwj	正在更新版本	Downloading updated version
+game_load_gui_gxwj1	正在更新到{0}版本 进度 {1}/100	Downloading the updated version {0} progess {1}/100
+game_load_gui_bbgj	当前版本过旧，需要更新最新版本：{0}	Current version is too low, you have to update to the latest version {0}
+game_load_gui_fxxbb	发现新版本，是否更新最新版本：{0}	New version had came out, do you want to update to the latest version {0}
+br_end_gui_get	获得	Get
+br_end_gui_thank	让我们感谢这些地图的作者们	Thanks for the map designers.
+br_end_gui_whdpm	本次未获得排名	No ranking
+br_end_gui_hdpm	本次获得第{0}名	You get ranking {0}
+clear_gui_hdzm	[00FFFF]恭喜您获得L{0}证明	[00FFFF]Congratulate you to get L{0} Card
+clear_gui_whdpm	本次未获得排名	No ranking
+clear_gui_hdpm	本次获得第{0}名	You get ranking {0}
+clear_gui_next_test	是否继续进行下一关考试？	Continue to the next test?
+clear_gui_fh	返回	Back
+clear_gui_jx	继续	Continue
+clear_gui_xyg	下一关	Next
+clear_gui_zyx	赞一下	Like
+clear_gui_ydz	已点赞	Liked
+double_dialog_box_ok	确定	OK
+double_dialog_box_cancel	取消	Cancel
+double_dialog_box_ts	提示	Warn
+edit_gui_gdfk	点这里有更多方块	Click to get more boxes
+edit_gui_ydxj	移动摄像机	Drag to move camera
+edit_gui_fg	风格	Style
+edit_gui_bc	保存	Save
+edit_gui_bh	变换	Change
+edit_gui_cc	擦除	Erase
+edit_gui_xzhj	选择工具	Box Setting
+edit_gui_xgsj	修改时间	Time Setting
+edit_gui_sjms	时间模式	Time
+edit_gui_zjms	追击模式	Speed
+edit_gui_gsms	高速模式	Speed Ex
+edit_gui_qhfg	切换风格	Style Setting
+edit_gui_djsw	请点击试玩按钮	Please click play button
+edit_gui_djbc	请点击保存按钮	please click save button
+edit_gui_sfqd	是否退出编辑？	Do you want to exit?
+edit_gui_sfbc	是否保存地图？	Save the map or not?
+edit_gui_hlbc	好了，地图已经制作完整了，让我们保存地图吧！	OK, map has been made, let's save it.
+edit_gui_xyts	按虚影提示完成地图	Complete the map according to the hint.
+edit_gui_wcjx	恭喜您完成工匠教学	Congratulates! You finished the guide.
+edit_gui_pljx	接下来我们来试玩一下其他玩家制作的地图吧	Then let's try to play the maps created by the others.
+edit_gui_swdt	很好，让我们来试玩一下地图吧	Great, let's try to play the map. 
+edit_gui_zlbd	这里放的不对哦	Unsuitable to put here
+edit_gui_qaxy	请按虚影提示放入正确的方块	Select correct box according to the hint
+edit_gui_area	区域	Area
+edit_gui_qhqy	是否切换到区域{0}？	Are you sure to swicth to area {0}?
+edit_gui_swzd	已将此区域设置为终点	Already set this area as destination
+edit_mode_qdzd	终点起点附近无法修改	Not allowed to edit near the begining and ending
+edit_mode_wffz	无法放置在此处	Not allowed to put here
+edit_mode_xfcz	下方存在障碍物	Boxes below
+edit_mode_xcsd	必须放置在传送杆上	Must put on the moving rod
+edit_mode_tqsw	同屏内动态物体达到上限	Dynamic object limited in one screen
+edit_mode_ccsm	超过传送门最大数量	Gateway number limited
+edit_mode_qcsm	已移除没有成双的传送门	Already removed unpaired gateways
+edit_mode_zdsl	超过最大数量	Max number limited
+edit_select_gui_gjdj	工匠等级	Editor Level
+edit_select_gui_jrsc	今日上传地图数	Today's Uploaded Maps
+edit_select_gui_gm	改名	Change Name
+edit_select_gui_ok	确定	OK
+edit_select_gui_edit	编辑	Edit
+edit_select_gui_play	试玩	Play
+edit_select_gui_upload	上传	Upload
+edit_select_gui_delete	删除	Delete
+edit_select_gui_gjdjsm	工匠等级说明	Editor Level
+edit_select_gui_gjdjsm1	1、上传地图可获得100点工匠经验{nn}2、地图每被玩家挑战一次获得1点工匠经验{nn}3、工匠等级越高，每日可上传地图数量越多{nn}4、工匠等级越高，可使用的地图风格越多{nn}	1. You can get every 100 exp by uploading one map.{nn}2. You can get every 1 exp by the times challenged by others.{nn}3. the higher level of editor, the more maps can be uploaded.{nn}4. the higher level of editor, the more styles of map can be used.{nn}
+edit_select_gui_wfxg	无法编辑已上传地图	Not allowed to edit uploaded map
+edit_select_gui_wfsc	无法上传已上传地图	Not allowed to uploaded map duplicately
+edit_select_gui_wfwbj	无法上传未编辑地图	Not allowed to upload the unedited map
+edit_select_gui_xgmz	请修改名字后再上传	Please change name before upload
+edit_select_gui_tgsc	通关本地图后将自动上传，是否继续？	After passing the map, it will be uploaded automatically, continue or not?
+edit_select_gui_sfsc	是否确定要删除该地图？	Delete map or not?
+edit_select_gui_mzbk	名字不能为空	Name can't be null
+edit_select_gui_ykwf	游客无法上传地图	Guests can't upload map
+game_data_dtbb	地图版本过高，请更新版本	Map version is excessive
+game_data_dtjx	地图解析错误	Map parse error
+loading_gui_zzjz	正在加载资源	Loading resources
+login_gui_djpm	点击屏幕继续	Press to continue
+login_gui_wszh	完善账号	Perfect Account
+login_gui_qhzh	切换账号	Switch Account
+login_gui_xzgj	选择国家	Select Country
+login_gui_gj	国家	Country
+login_gui_nc	昵称	Nickname
+login_gui_zh	账号	Username
+login_gui_mm	密码	Password
+login_gui_qd	确定	OK
+login_gui_zzlj	正在连接服务器	Connecting the server
+login_gui_zhbk	账号不能为空	Account can't be null
+login_gui_mmbk	密码不能为空	Password can't be null
+login_gui_ncbk	昵称不能为空	Nickname can't be null
+login_gui_gjbk	请选择您的国家	Please select a country
+login_gui_dlcg	登陆成功	Login success
+login_gui_qhcg	切换账号成功	Switch account success
+login_gui_wscg	完善账号成功	Perfect account success
+login_gui_wsgd	当前账号为游客{nn}请完善账号	You ard guest{nn} Perfect account please
+login_gui_feif	该版本已无法使用	This version can't be used any more
+login_gui_shez	关注	Follow
+login_gui_lbm	礼包码	Gift Code
+login_gui_quit	退出游戏	Quit
+login_gui_lbmk	礼包码不能为空	Gift code cannot be null
+login_gui_gtlb	获得{0}体力	get {0} energies
+login_gui_dlpt	正在登陆平台	Connecting the platform
+login_sys_gui_setting	设置	Settings
+login_sys_gui_open	开	on
+login_sys_gui_close	关	off
+login_sys_gui_bgm	音乐	BGM
+login_sys_gui_sound	音效	Sound
+login_sys_gui_full	全屏	FullScreen
+login_sys_gui_fbl	分辨率	Resolution
+login_sys_gui_up	上	Up
+login_sys_gui_down	下	Down
+login_sys_gui_left	左	Left
+login_sys_gui_right	右	Right
+login_sys_gui_jump	跳	Jump
+login_sys_gui_action	动作	Action
+login_sys_gui_ajsz	按键设置	Key Settings
+login_sys_gui_mraj	默认设置	Defualt
+login_sys_gui_zdy	自定义	Custom
+play_gui_pause	暂停	Pause
+play_gui_cxks	重新开始（X）	Restart(X)
+play_gui_fhsj	返回上级	Back
+play_gui_jxyx	继续游戏	Continue
+play_gui_lose	失败	Lose
+play_gui_jgcg	跳过此关	Skip
+play_gui_smbz	生命不足	Not enough lifes
+play_gui_sccg	上传成功	Upload success
+play_gui_timeup	时间结束	TIME UP
+play_gui_fhtt	差一点就能通关了{nn}是否复活增加[00ffff]10条生命[-]？	You are almost pass the mission, do you want to revive and add [00ffff]10 lives[-]?
+play_gui_fhok	复活	Revive
+play_gui_fhcc	取消	Cancel
+play_gui_uplw	是否上传本次录像	Do you want to upload this replay?
+play_gui_djjx	请点击鼠标，继续游戏	Click to contiue
+play_mode_zkql	这看起来根本就是某人做了一半的地图嘛！让我们去把它完成吧！	It seems like unfinished map by someone, shall we finish it right now!
+play_yk	游客	Guest
+single_dialog_box_ok	确定	OK
+single_dialog_box_ts	提示	Warn
+user_gui_xssd	钻石商店	Diamond
+user_gui_tlsd	体力商店	Energy
+user_gui_djsd	道具商店	Suport
+user_gui_zsbz	钻石不足	Not enough diamonds
+user_gui_hd	获得	Get 
+user_gui_hdzs	获得{0}钻石	Get {0} diamonds
+user_gui_zfdd	请在支付完成后点击确定查询支付结果	Please click OK after pay to check the payment results
+user_gui_wzfdd	支付尚未成功，请在支付完成后点击确定查询支付结果	Payment unfinished, please click OK after pay to check the payment results
+play_select_gui_jdwwc	上轮进度未完成，继续通关吧	Continue to play the last mission
+play_select_gui_sc	收藏	Favorite
+play_select_gui_qxsc	取消	Remove
+play_select_gui_download	下载	Download
+play_select_gui_lx	录像	Replays
+play_select_gui_ph	排行	Ranking
+play_select_gui_pl	评论	Comment
+play_select_gui_rmpl	热门评论	Hot Comment
+play_select_gui_wpl	暂时没有任何评论	No Comment
+play_select_gui_ss	搜索	Search
+play_select_gui_ok	确定	OK
+play_select_gui_ddjv	达到{0}级可以进行{1}	Start {1} at Level {0}
+play_select_gui_gjzk	关键字不能为空	Keyword can't be null
+play_select_gui_plwk	评论不能为空	Comment can't be null
+play_select_gui_fbpl	发表评论成功	Comment success
+play_select_gui_mzdt	没有找到相关地图	The related map haven't been found
+play_select_gui_qsbh	请输入[77ff77]地图名[-]或[77ff77]地图编号[-]	Please input the [77ff77]name[-] or [77ff77]id[-] of map
+play_select_gui_zxsc	请在选关模式下搜索	Please enter into the select mode to search
+play_select_gui_xiala	下拉获取更多	pull down to get more
+play_select_gui_shangla	上拉获取更多	pull up to get more
+play_select_gui_brsm	挑战模式一共8关，全部通关后可获得大量经验	There are totally 8 levels of the challenge mode, you can get lots of exp after passing all the levels. 
+play_select_gui_brtt	本次主题：{0}	Current Theme: {0}
+play_select_gui_jxbs	请点击L1考试	Please click L1 test
+play_select_gui_jxpl	请点击Play按钮	Please click play button
+play_select_gui_dself	是否该地图下载？	Do you want to download the map?
+play_select_gui_dlok	下载成功，请到编辑模式下查看	Downloading success. You can view this map in edit mode.
+play_select_gui_fqjd	放弃进度	Give up
+play_select_gui_br_drop	是否放弃进度？	Do you want to give up?
+play_sub_type1	[ffff00]{0}[-] 获得了第[ffff00]{1}[-]名	Get ranking [ffff00]{1}[-] at [ffff00]{0}[-]
+play_sub_type2	上传于 [ffff00]{0}	Uploaded at [ffff00]{0}
+play_sub_type3	总挑战次数 [ffff00]{0}	Total play count [ffff00]{0}
+paihang_gui_ph	排行	Ranking
+paihang_gui_pm	排名	Rank
+paihang_gui_wjmz	玩家名字	Player Name
+paihang_gui_dj	等级	Level
+paihang_gui_sj	时间	Time
+paihang_gui_bflx	播放录像	Replay
+paihang_gui_ggsl	最好成绩	Best Levels
+paihang_gui_xhsm	消耗生命	Lives Used
+paihang_sub_level	{0}关	{0} levels
+player_gui_jbxx	基本信息	General
+player_gui_jqwg	近期玩过	Recent Activity
+player_gui_tscd	他上传的	Self-Uploaded
+player_gui_wgzd	玩过最多	Most Played
+player_gui_wxx	尚无任何信息	No Information
+player_gui_tzdj	挑战等级	Level
+player_gui_tzjy	挑战经验	Exp
+player_gui_gjdj	工匠等级	Editor Level
+player_gui_gjjy	工匠经验	Editor Exp
+player_gui_zcsj	注册时间	Registered
+player_gui_ztzcs	总挑战次数	Play Count
+player_gui_ztgcs	总通关次数	Win Count
+player_gui_hdzfc	获得总分数	Total Score
+player_gui_pls	发表评论数	Comment Count
+player_gui_gklxs	观看录像数	Replays Count
+player_gui_lxbks	录像被看数	Replays by Others
+recharge_iphone_splb	正在读取商品	Loading Products
+mario_tool_xdgq	新的关卡	New mission
+mario_tool_tlhf	体力恢复	Energy recovery
+mario_tool_ywjz	有玩家制作了新的关卡，快上线看看吧	New mission created, click to play
+mario_tool_ndtl	您的体力恢复了，赶快上线使用吧	Your energy has been recovered, click to use
+net_http_wlsb	网络连接失败，请重试	Connect lost, try it again
+LJSDK_tcyx	是否退出游戏？	Do you want to exit game？
+t_br_name_1	简单	Easy
+t_br_name_2	普通	Normal
+t_br_name_3	困难	Hard
+t_br_name_4	地狱	Lunatic
+t_br_desc_1	简单难度一共8关，通关后获得少量经验奖励	The Easy Mode has totally 8 levels, you can get rewards of few exps when you completed.
+t_br_desc_2	普通难度一共8关，通关后获得一定经验奖励	The Normal Mode has totally 8 levels, you can get rewards of some exps when you completed.
+t_br_desc_3	困难难度一共16关，通关后获得大量经验奖励	The Hard Mode has totally 16 levels, you can get rewards of many exps when you completed.
+t_br_desc_4	地狱难度一共16关，通关后获得丰厚经验奖励	The Lunatic Mode has totally 16 levels, you can get rewards of rich exps when you completed.
+t_br_unlock_1		
+t_br_unlock_2	通关简单难度解锁	You should clear Easy Mode to unlock Normal mode.
+t_br_unlock_3	通关普通难度解锁	You should clear Normal Mode to unlock Hard mode.
+t_br_unlock_4	通关困难难度解锁	You should clear Hard Mode to unlock Lunatic mode.

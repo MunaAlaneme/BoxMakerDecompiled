@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: daiji0002
+  m_Rect:
+    serializedVersion: 2
+    x: 21.07612
+    y: 15.036285
+    width: 53.917908
+    height: 69.89733
+  m_Offset: {x: 1.9649268, y: 0.015048334}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1
+  m_Extrude: 1
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 15a9b644eab375f4f88e388a3da9b8d0, type: 3}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 25, y: 32, z: 0}
+    - serializedVersion: 2
+      pos: {x: 22, y: -35, z: 0}
+    - serializedVersion: 2
+      pos: {x: 25, y: -28, z: 0}
+    - serializedVersion: 2
+      pos: {x: 11, y: 35, z: 0}
+    - serializedVersion: 2
+      pos: {x: -15, y: 35, z: 0}
+    - serializedVersion: 2
+      pos: {x: -29, y: 15, z: 0}
+    - serializedVersion: 2
+      pos: {x: -29, y: -35, z: 0}
+    indices: 060005000100040001000500030001000400000001000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 21.07612
+      y: 15.036285
+      width: 53.917908
+      height: 69.89733
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 192
+    uvTransform: {x: 1, y: 50, z: 1, w: 50}

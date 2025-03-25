@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: sanduantiao0007
+  m_Rect:
+    serializedVersion: 2
+    x: 21.051317
+    y: 12.026751
+    width: 66.921936
+    height: 66.9465
+  m_Offset: {x: -4.512286, y: 4.4999986}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1
+  m_Extrude: 1
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: e2ab9108e028ecb48bba3bc5e6cfbb13, type: 3}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 38, y: 15, z: 0}
+    - serializedVersion: 2
+      pos: {x: 32, y: -38, z: 0}
+    - serializedVersion: 2
+      pos: {x: 38, y: -33, z: 0}
+    - serializedVersion: 2
+      pos: {x: 13, y: 29, z: 0}
+    - serializedVersion: 2
+      pos: {x: 11, y: -38, z: 0}
+    - serializedVersion: 2
+      pos: {x: -19, y: -29, z: 0}
+    - serializedVersion: 2
+      pos: {x: -25, y: 29, z: 0}
+    - serializedVersion: 2
+      pos: {x: -29, y: 17, z: 0}
+    - serializedVersion: 2
+      pos: {x: -29, y: -6, z: 0}
+    indices: 080007000500060005000700030005000600040005000300010004000300000001000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 21.051317
+      y: 12.026751
+      width: 66.921936
+      height: 66.9465
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 192
+    uvTransform: {x: 1, y: 50, z: 1, w: 50}

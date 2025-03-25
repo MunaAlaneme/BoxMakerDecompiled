@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: boom01
+  m_Rect:
+    serializedVersion: 2
+    x: 2.036285
+    y: 2
+    width: 35.936962
+    height: 35.973248
+  m_Offset: {x: -0.004765972, y: 0.013375349}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1
+  m_Extrude: 1
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 9021e4bed37506f46a1e122551242dfd, type: 3}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 17, y: 15, z: 0}
+    - serializedVersion: 2
+      pos: {x: 18, y: 5, z: 0}
+    - serializedVersion: 2
+      pos: {x: 18, y: 13, z: 0}
+    - serializedVersion: 2
+      pos: {x: 16, y: -17, z: 0}
+    - serializedVersion: 2
+      pos: {x: 12, y: -18, z: 0}
+    - serializedVersion: 2
+      pos: {x: 2, y: 18, z: 0}
+    - serializedVersion: 2
+      pos: {x: -5, y: -18, z: 0}
+    - serializedVersion: 2
+      pos: {x: -8, y: 18, z: 0}
+    - serializedVersion: 2
+      pos: {x: -18, y: 2, z: 0}
+    - serializedVersion: 2
+      pos: {x: -18, y: -13, z: 0}
+    indices: 090008000600070006000800050006000700040006000500000004000500030004000000010003000000020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 2.036285
+      y: 2
+      width: 35.936962
+      height: 35.973248
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 192
+    uvTransform: {x: 1, y: 20, z: 1, w: 20}

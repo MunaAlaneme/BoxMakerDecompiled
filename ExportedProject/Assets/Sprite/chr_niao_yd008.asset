@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: chr_niao_yd008
+  m_Rect:
+    serializedVersion: 2
+    x: 20.02675
+    y: 29.07612
+    width: 70.91352
+    height: 55.910973
+  m_Offset: {x: -5.483512, y: -7.0316067}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1
+  m_Extrude: 1
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: c094db03076acb3499c76e1f61f54c2f, type: 3}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 41, y: 17, z: 0}
+    - serializedVersion: 2
+      pos: {x: 28, y: -19, z: 0}
+    - serializedVersion: 2
+      pos: {x: 41, y: 0, z: 0}
+    - serializedVersion: 2
+      pos: {x: 22, y: 35, z: 0}
+    - serializedVersion: 2
+      pos: {x: 9, y: -21, z: 0}
+    - serializedVersion: 2
+      pos: {x: -21, y: 35, z: 0}
+    - serializedVersion: 2
+      pos: {x: -30, y: 2, z: 0}
+    - serializedVersion: 2
+      pos: {x: -30, y: -21, z: 0}
+    indices: 070006000400050004000600030004000500010004000300000001000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 20.02675
+      y: 29.07612
+      width: 70.91352
+      height: 55.910973
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 192
+    uvTransform: {x: 1, y: 50, z: 1, w: 50}

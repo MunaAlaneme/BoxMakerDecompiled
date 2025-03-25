@@ -1,0 +1,51 @@
+INT	STRING	STRING	STRING	INT	INT	INT	INT	INT	INT	INT
+id	name	icon	res	隐藏	是否可变风格	是否静态	放物体或者被放	审核开关	生物体	区域内最大数量
+1	地表	re_1	mario_db		1	1				
+2	可破坏砖	re_2	mario_po_block		1	1	1			
+3	实心砖	re_3	mario_block		1	1				
+4	铁块	re_4	mario_block1			1				
+5	变刺砖	re_5	mario_ci_block		1	1				
+6	踩到下落砖	re_6	mario_down_block			1				
+7	碎砖	re_7	mario_sui_block		1	1				
+101	云	re_101	mario_yun			1				
+102	地刺	re_102	mario_ci			1				
+103	隐形砖	re_103	mario_yin_block			1	1			
+104	划砖	re_104	mario_hua_block			1				
+105	弹簧	re_105	mario_tanhuang				12		1	
+106	落刺	re_106	mario_luoci							
+107	金币	re_107	mario_gold							
+108	冰块	re_108	mario_ice			1				
+109	移动平台	re_109	mario_ydpt							
+110	音符	re_110	mario_yinfu							
+111	熔岩球	re_111	mario_ryqiu							
+112	传送杆	re_112	mario_csg							
+113	传送平台	re_113	mario_cspt							
+114	大炮	re_114	mario_pao			1				
+115	移动板	re_115	mario_ydb							
+116	问号	re_116	mario_wenhao			1	1			
+117	锁门	re_117	mario_men			1				
+118	色子	re_118	mario_sezi			1	1			
+119	次元门	re_119	mario_cym				2			5
+120	火棍	re_120	mario_huogun			1				
+121	路标	re_121	mario_lubiao							
+122	传送门	re_122	mario_csm							
+123	齿轮	re_123	mario_chilun							
+201	狗头	re_201	mario_goutou				11		1	
+207	乌龟	re_207	mario_wugui				11		1	
+208	龟壳	re_208	mario_wuguike				12		1	
+202	刺猬	re_202	mario_ciwei				11		1	
+203	方向炮	re_203	mario_fx_pao				12		1	
+209	黄龟	re_209	mario_huanggui				11		1	
+210	黄龟壳	re_210	mario_huangguike				12		1	
+204	鸟	re_204	mario_niao							
+301	狗头_big	re_301	mario_goutou_big				11		1	
+307	乌龟_big	re_307	mario_wugui_big				11		1	
+308	龟壳_big	re_308	mario_wuguike_big				12		1	
+302	刺猬_big	re_302	mario_ciwei_big				11		1	
+303	方向炮_big	re_303	mario_fx_pao_big				12		1	
+309	黄龟_big	re_309	mario_huanggui_big				11		1	
+310	黄龟壳_big	re_310	mario_huangguike_big				12		1	
+205	萝卜	re_205	mario_luobo				12		1	
+206	钥匙	re_206	mario_yaoshi				12		1	
+1000	起点	re_1000	mario_start	1						
+1001	终点	re_1001	mario_end	1						

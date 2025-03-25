@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: chr_srh_dj016
+  m_Rect:
+    serializedVersion: 2
+    x: 24.056372
+    y: 17.042908
+    width: 50.867508
+    height: 61.930344
+  m_Offset: {x: 0.50987524, y: 1.9919188}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1
+  m_Extrude: 1
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: bc017ac65830e6d4c87f694e6a5d3ef0, type: 3}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 25, y: 29, z: 0}
+    - serializedVersion: 2
+      pos: {x: -22, y: -33, z: 0}
+    - serializedVersion: 2
+      pos: {x: 25, y: -33, z: 0}
+    - serializedVersion: 2
+      pos: {x: -26, y: 29, z: 0}
+    - serializedVersion: 2
+      pos: {x: -26, y: -27, z: 0}
+    indices: 040003000100000001000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 24.056372
+      y: 17.042908
+      width: 50.867508
+      height: 61.930344
+    textureRectOffset: {x: 0, y: 0}
+    settingsRaw: 192
+    uvTransform: {x: 1, y: 50, z: 1, w: 50}

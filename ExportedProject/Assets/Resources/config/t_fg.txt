@@ -1,0 +1,6 @@
+INT	STRING	INT	STRING	STRING
+id	name	tj	desc	music
+1	t_fg_name_1		t_fg_desc_1	music/game1
+2	t_fg_name_2		t_fg_desc_2	music/game2
+3	t_fg_name_3		t_fg_desc_3	music/game3
+4	t_fg_name_4		t_fg_desc_4	music/game4

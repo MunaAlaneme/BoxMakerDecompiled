@@ -3,11 +3,15 @@ Boxmaker is an action game that similar to Super Mario, it is more than a game t
 
 All Reviews:
 Mostly Negative (107) [As of March 25, 2025]
+
 Release Date:
 8 Aug, 2017
+
 Developer:
 Silver Moon Internet
+
 Publisher:
 Silver Moon Internet
+
 Popular user-defined tags for this product:
 Action, Singleplayer, Level Editor
